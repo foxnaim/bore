@@ -1,3 +1,8 @@
+> **foxnaim** · Простая CLI-утилита на Rust для проброса туннелей к localhost
+>
+> Готовая основа под клиентский проект. Стек: Rust.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # bore
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/ekzhang/bore/ci.yml)](https://github.com/ekzhang/bore/actions)
